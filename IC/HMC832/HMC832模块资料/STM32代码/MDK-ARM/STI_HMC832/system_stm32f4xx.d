@@ -1,0 +1,10 @@
+sti_hmc832\system_stm32f4xx.o: ../Core/Src/system_stm32f4xx.c
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm4.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
+sti_hmc832\system_stm32f4xx.o: D:\Download\Setup\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h

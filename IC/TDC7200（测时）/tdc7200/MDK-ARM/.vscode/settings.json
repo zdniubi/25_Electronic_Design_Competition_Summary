@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tdc7200.h": "c",
+        "stm32h7xx_hal.h": "c"
+    }
+}
